@@ -1,6 +1,6 @@
 ## Olá Mundo!  🖖
 
-### Estou atualmente estudando HMLT, CSS e JavaScript. 
+### Estou atualmente estudando HTML5, CSS e JavaScript. 
 *"Pequenos riachos formam grandes rios"*
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
